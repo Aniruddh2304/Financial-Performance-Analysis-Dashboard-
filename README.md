@@ -4,7 +4,6 @@
 This project provides a comprehensive financial analysis using **Power BI** and **Excel**, covering sales performance, customer segmentation, product profitability, and trend forecasting based on historical data from **2011 to 2015**.
 
 
-<img width="1012" height="560" alt="image" src="https://github.com/user-attachments/assets/29ddbaf4-8868-4417-9ea3-cf7509df0b71" />
 
 ---
 
